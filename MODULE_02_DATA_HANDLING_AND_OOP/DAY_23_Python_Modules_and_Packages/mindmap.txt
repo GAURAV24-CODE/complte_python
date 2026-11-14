@@ -1,0 +1,21 @@
+DAY 23: Python Modules and Packages
+|
++-- OVERVIEW
+|   +-- Modules organize reusable Python code in files. Packages group related modules into directories and help structure larger applications.
+|
++-- CORE CONCEPTS
+|   +-- import module imports a module.
+|   +-- from module import name imports a selected name.
+|   +-- __name__ == '__main__' identifies direct script execution.
+|   +-- A package is a directory of modules; __init__.py is commonly used to mark package structure.
+|
++-- PRACTICE
+|   +-- Create a helpers.py module with two functions.
+|   +-- Import and use a function from your module.
+|   +-- Explain why __name__ == '__main__' is useful.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

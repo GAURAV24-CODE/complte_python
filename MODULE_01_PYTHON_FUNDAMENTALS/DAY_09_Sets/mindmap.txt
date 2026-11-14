@@ -1,0 +1,21 @@
+DAY 09: Sets
+|
++-- OVERVIEW
+|   +-- Sets are unordered collections of unique elements. They are useful for removing duplicates and performing mathematical set operations.
+|
++-- CORE CONCEPTS
+|   +-- Sets remove duplicate values automatically.
+|   +-- Sets do not support positional indexing.
+|   +-- Use add() and discard() to update a set.
+|   +-- Union, intersection, difference and symmetric difference compare sets.
+|
++-- PRACTICE
+|   +-- Remove duplicates from a list using a set.
+|   +-- Find common subjects between two students.
+|   +-- Find values that occur in only one of two sets.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

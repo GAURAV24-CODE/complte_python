@@ -1,0 +1,21 @@
+DAY 17: Working with Date and Time
+|
++-- OVERVIEW
+|   +-- The datetime module handles dates, times, durations and formatting. Use date and datetime objects instead of manually manipulating date strings.
+|
++-- CORE CONCEPTS
+|   +-- date represents a calendar date.
+|   +-- datetime represents date and time.
+|   +-- timedelta represents a duration.
+|   +-- strftime formats dates; strptime parses date strings.
+|
++-- PRACTICE
+|   +-- Calculate the date 30 days from today.
+|   +-- Parse a date written as DD/MM/YYYY.
+|   +-- Calculate the number of days between two dates.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

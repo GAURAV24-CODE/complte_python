@@ -1,0 +1,21 @@
+DAY 13: Lambda, Map, Filter and Reduce
+|
++-- OVERVIEW
+|   +-- These tools support compact functional-style transformations. Use lambda for short functions, map for transformation, filter for selection and reduce for cumulative aggregation.
+|
++-- CORE CONCEPTS
+|   +-- lambda creates a small anonymous function.
+|   +-- map applies a function to each item.
+|   +-- filter keeps items that pass a condition.
+|   +-- functools.reduce combines items cumulatively.
+|
++-- PRACTICE
+|   +-- Use map to convert Celsius values to Fahrenheit.
+|   +-- Use filter to select words longer than five characters.
+|   +-- Use reduce to calculate a product.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

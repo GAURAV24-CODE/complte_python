@@ -1,0 +1,21 @@
+DAY 06: Strings
+|
++-- OVERVIEW
+|   +-- Strings are immutable sequences of Unicode characters. Learn indexing, slicing, common methods, formatting and joining.
+|
++-- CORE CONCEPTS
+|   +-- Use single, double or triple quotes.
+|   +-- Indexing starts at 0; negative indexes count from the end.
+|   +-- Slicing uses [start:stop:step].
+|   +-- Common methods include lower(), upper(), strip(), replace() and split().
+|
++-- PRACTICE
+|   +-- Count the characters in a sentence.
+|   +-- Reverse a string using slicing.
+|   +-- Count how many times a chosen character appears.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

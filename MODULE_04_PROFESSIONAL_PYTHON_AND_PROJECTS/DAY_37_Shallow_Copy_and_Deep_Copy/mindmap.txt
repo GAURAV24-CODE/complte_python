@@ -1,0 +1,21 @@
+DAY 37: Shallow Copy and Deep Copy
+|
++-- OVERVIEW
+|   +-- Assignment creates another reference to an object. Shallow copies duplicate the outer container but share nested objects; deep copies recursively copy nested objects.
+|
++-- CORE CONCEPTS
+|   +-- Use copy.copy for shallow copies.
+|   +-- Use copy.deepcopy for recursive copies.
+|   +-- Nested mutable objects reveal the difference.
+|   +-- Immutable values behave differently from mutable containers.
+|
++-- PRACTICE
+|   +-- Demonstrate aliasing with a list.
+|   +-- Compare shallow and deep copies of a nested dictionary.
+|   +-- Explain when deepcopy may be expensive.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

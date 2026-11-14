@@ -1,0 +1,21 @@
+DAY 14: List, Dictionary and Set Comprehensions
+|
++-- OVERVIEW
+|   +-- Comprehensions create collections concisely from iterables. They can include transformations and conditions.
+|
++-- CORE CONCEPTS
+|   +-- List comprehension: [expression for item in iterable].
+|   +-- Add if conditions to filter items.
+|   +-- Dictionary comprehension creates key-value mappings.
+|   +-- Set comprehension creates unique values.
+|
++-- PRACTICE
+|   +-- Create a list of cubes from 1 to 10.
+|   +-- Build a dictionary of numbers and their squares.
+|   +-- Extract unique first letters from a list of words.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

@@ -1,0 +1,21 @@
+DAY 46: Project 4 — Web Scraping Application
+|
++-- OVERVIEW
+|   +-- Build a small scraper for a page you are permitted to access. Extract selected fields, clean the text and save results in CSV.
+|
++-- CORE CONCEPTS
+|   +-- Check the website's terms and robots guidance first.
+|   +-- Use a clear user agent where appropriate and limit request frequency.
+|   +-- Parse HTML with BeautifulSoup.
+|   +-- Handle missing elements and changing page structure.
+|
++-- PRACTICE
+|   +-- Extract titles from a permitted sample HTML page.
+|   +-- Handle a missing optional field.
+|   +-- Save extracted records to CSV.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

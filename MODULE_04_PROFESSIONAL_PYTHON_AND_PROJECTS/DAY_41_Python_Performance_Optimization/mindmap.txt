@@ -1,0 +1,21 @@
+DAY 41: Python Performance Optimization
+|
++-- OVERVIEW
+|   +-- Optimize based on measurement. Understand algorithmic complexity, profiling, efficient data structures and avoiding unnecessary repeated work.
+|
++-- CORE CONCEPTS
+|   +-- Measure before optimizing.
+|   +-- Big-O describes how work grows with input size.
+|   +-- Choose appropriate built-in data structures.
+|   +-- Profiling helps locate real bottlenecks; caching can avoid repeated calculations.
+|
++-- PRACTICE
+|   +-- Compare membership checks in a list and set.
+|   +-- Use time.perf_counter to compare two approaches.
+|   +-- Explain why profiling should guide optimization.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

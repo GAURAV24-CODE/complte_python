@@ -1,0 +1,21 @@
+DAY 27: Multithreading and Multiprocessing
+|
++-- OVERVIEW
+|   +-- Concurrency helps structure work that can overlap. Threads share process memory and are often useful for I/O-bound tasks; processes have separate memory and can help with CPU-bound work.
+|
++-- CORE CONCEPTS
+|   +-- threading creates threads within one process.
+|   +-- multiprocessing creates separate processes.
+|   +-- Use the main guard for multiprocessing-safe scripts.
+|   +-- Choose concurrency based on workload and measure performance.
+|
++-- PRACTICE
+|   +-- Describe an I/O-bound task and a CPU-bound task.
+|   +-- Use ThreadPoolExecutor to process a list of URLs (conceptual exercise).
+|   +-- Explain why multiprocessing examples need a main guard on some platforms.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

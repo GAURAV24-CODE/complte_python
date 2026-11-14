@@ -1,0 +1,21 @@
+DAY 02: Variables and Data Types
+|
++-- OVERVIEW
+|   +-- Variables are names that refer to values. Python infers a value's type at runtime. Core built-in types include int, float, str and bool.
+|
++-- CORE CONCEPTS
+|   +-- Use = to assign a value.
+|   +-- int stores whole numbers; float stores decimal numbers.
+|   +-- str stores text; bool stores True or False.
+|   +-- type(value) checks a value's type; type conversion uses int(), float() and str().
+|
++-- PRACTICE
+|   +-- Create variables for a product name, price and availability.
+|   +-- Convert the string '100' into an integer.
+|   +-- Check the types of three variables.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

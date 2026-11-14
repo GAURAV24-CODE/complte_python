@@ -1,0 +1,21 @@
+DAY 04: Conditional Statements
+|
++-- OVERVIEW
+|   +-- Conditional statements choose which code runs based on whether a condition is true. Use if, elif and else, with correct indentation.
+|
++-- CORE CONCEPTS
+|   +-- if runs a block when its condition is true.
+|   +-- elif checks another condition if earlier conditions failed.
+|   +-- else handles all remaining cases.
+|   +-- Indentation defines the block.
+|
++-- PRACTICE
+|   +-- Check whether a number is positive, negative or zero.
+|   +-- Build a simple age-category classifier.
+|   +-- Find the largest of three numbers.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

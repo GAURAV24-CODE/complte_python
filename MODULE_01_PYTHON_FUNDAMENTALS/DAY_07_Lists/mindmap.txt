@@ -1,0 +1,21 @@
+DAY 07: Lists
+|
++-- OVERVIEW
+|   +-- Lists are ordered, mutable collections that can contain values of different types. Learn indexing, slicing, methods and iteration.
+|
++-- CORE CONCEPTS
+|   +-- Create lists with square brackets.
+|   +-- Lists support indexing and slicing.
+|   +-- append(), extend(), insert(), remove(), pop() and sort() are common methods.
+|   +-- Lists can contain nested lists.
+|
++-- PRACTICE
+|   +-- Find the largest and smallest values in a list.
+|   +-- Remove duplicates while preserving order.
+|   +-- Calculate the average of a list of marks.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

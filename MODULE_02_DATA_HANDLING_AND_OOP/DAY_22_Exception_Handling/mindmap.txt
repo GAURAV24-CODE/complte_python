@@ -1,0 +1,21 @@
+DAY 22: Exception Handling
+|
++-- OVERVIEW
+|   +-- Exceptions are runtime events that interrupt normal execution. Handle expected errors with try and except, and use finally for cleanup.
+|
++-- CORE CONCEPTS
+|   +-- try contains code that may raise an exception.
+|   +-- except handles selected exception types.
+|   +-- else runs when no exception occurred.
+|   +-- finally runs whether an exception occurred or not; raise can signal invalid conditions.
+|
++-- PRACTICE
+|   +-- Handle invalid integer input.
+|   +-- Raise ValueError when an age is negative.
+|   +-- Explain the difference between a syntax error and an exception.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

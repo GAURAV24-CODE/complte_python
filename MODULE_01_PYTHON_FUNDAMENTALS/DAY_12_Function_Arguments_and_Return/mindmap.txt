@@ -1,0 +1,21 @@
+DAY 12: Function Arguments and Return
+|
++-- OVERVIEW
+|   +-- Python functions support positional, keyword, default and variable-length arguments. Return values let functions pass results to other parts of a program.
+|
++-- CORE CONCEPTS
+|   +-- Positional arguments match parameters by order.
+|   +-- Keyword arguments match by parameter name.
+|   +-- Default values make arguments optional.
+|   +-- *args collects extra positional arguments; **kwargs collects extra keyword arguments.
+|
++-- PRACTICE
+|   +-- Create a function with a default tax rate.
+|   +-- Write a function that accepts any number of numeric arguments.
+|   +-- Return both minimum and maximum from a function.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

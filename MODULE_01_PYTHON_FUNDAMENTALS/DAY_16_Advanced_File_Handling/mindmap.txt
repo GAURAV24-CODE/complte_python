@@ -1,0 +1,21 @@
+DAY 16: Advanced File Handling
+|
++-- OVERVIEW
+|   +-- Work with paths, encodings, binary files and safe file operations. pathlib provides an object-oriented way to work with filesystem paths.
+|
++-- CORE CONCEPTS
+|   +-- Use pathlib.Path for portable paths.
+|   +-- Choose an explicit encoding such as UTF-8 for text.
+|   +-- Binary modes use b, for example rb and wb.
+|   +-- Check exists() and create directories with mkdir().
+|
++-- PRACTICE
+|   +-- Create a folder and two text files using pathlib.
+|   +-- List all .txt files in a folder.
+|   +-- Copy text from one file to another.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

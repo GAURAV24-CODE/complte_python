@@ -1,0 +1,21 @@
+DAY 38: Advanced Data Structures — collections
+|
++-- OVERVIEW
+|   +-- The collections module provides specialized containers such as Counter, defaultdict, deque and namedtuple for common data-handling patterns.
+|
++-- CORE CONCEPTS
+|   +-- Counter counts hashable items.
+|   +-- defaultdict supplies a default value for missing keys.
+|   +-- deque supports efficient appends and pops at both ends.
+|   +-- namedtuple creates tuple-like records with named fields.
+|
++-- PRACTICE
+|   +-- Count word frequencies with Counter.
+|   +-- Group students by class with defaultdict.
+|   +-- Simulate a simple queue using deque.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

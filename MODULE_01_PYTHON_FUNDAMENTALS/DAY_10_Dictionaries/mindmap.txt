@@ -1,0 +1,21 @@
+DAY 10: Dictionaries
+|
++-- OVERVIEW
+|   +-- Dictionaries store key-value pairs. They provide fast key-based lookup and are commonly used for structured records.
+|
++-- CORE CONCEPTS
+|   +-- Create dictionaries with {key: value}.
+|   +-- Keys must be hashable and unique.
+|   +-- Use get() for safe lookup.
+|   +-- keys(), values() and items() support iteration.
+|
++-- PRACTICE
+|   +-- Create a dictionary for a product.
+|   +-- Count word frequencies in a short sentence.
+|   +-- Update a student's marks and print the record.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

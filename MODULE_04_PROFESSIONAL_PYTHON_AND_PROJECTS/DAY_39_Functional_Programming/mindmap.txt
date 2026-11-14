@@ -1,0 +1,21 @@
+DAY 39: Functional Programming
+|
++-- OVERVIEW
+|   +-- Functional programming emphasizes functions, predictable transformations and minimizing shared mutable state. Python supports functional techniques alongside other styles.
+|
++-- CORE CONCEPTS
+|   +-- Pure functions return results without changing external state.
+|   +-- Treat data as immutable where practical.
+|   +-- Higher-order functions accept or return functions.
+|   +-- map, filter, comprehensions and sorted(key=...) support transformations.
+|
++-- PRACTICE
+|   +-- Refactor a loop into a list comprehension.
+|   +-- Write a pure function to normalize text.
+|   +-- Explain side effects with a simple example.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

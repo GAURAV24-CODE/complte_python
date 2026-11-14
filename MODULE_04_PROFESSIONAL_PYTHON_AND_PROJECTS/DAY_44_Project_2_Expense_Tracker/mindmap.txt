@@ -1,0 +1,21 @@
+DAY 44: Project 2 — Expense Tracker
+|
++-- OVERVIEW
+|   +-- Build an expense tracker that records transactions, categorizes spending and summarizes totals. Practice dates, data structures and file or database storage.
+|
++-- CORE CONCEPTS
+|   +-- Represent each expense with amount, category, date and description.
+|   +-- Validate positive amounts and valid dates.
+|   +-- Calculate totals by category and month.
+|   +-- Persist data in CSV, JSON or SQLite.
+|
++-- PRACTICE
+|   +-- Add an expense and list all expenses.
+|   +-- Generate monthly and category summaries.
+|   +-- Export a report to CSV.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

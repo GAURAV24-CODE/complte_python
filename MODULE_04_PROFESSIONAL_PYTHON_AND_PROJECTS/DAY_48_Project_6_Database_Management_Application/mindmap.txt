@@ -1,0 +1,21 @@
+DAY 48: Project 6 — Database Management Application
+|
++-- OVERVIEW
+|   +-- Build an application that stores and manages structured records in SQLite. Combine schema design, CRUD, validation and reporting.
+|
++-- CORE CONCEPTS
+|   +-- Design tables with appropriate primary keys.
+|   +-- Use parameterized SQL queries.
+|   +-- Separate database functions from user-interface logic.
+|   +-- Test CRUD operations and handle database errors.
+|
++-- PRACTICE
+|   +-- Design a database for products and categories.
+|   +-- Implement CRUD functions in a separate module.
+|   +-- Add a report showing record counts and totals.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

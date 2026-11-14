@@ -1,0 +1,21 @@
+DAY 33: Working with APIs and HTTP Requests
+|
++-- OVERVIEW
+|   +-- APIs let applications exchange data. HTTP requests use methods such as GET and POST, status codes and structured responses, often JSON.
+|
++-- CORE CONCEPTS
+|   +-- GET retrieves a resource; POST submits data.
+|   +-- HTTP status codes communicate request outcomes.
+|   +-- Requests is a popular third-party HTTP library.
+|   +-- Handle timeouts and request exceptions; do not expose API keys.
+|
++-- PRACTICE
+|   +-- Explain the difference between GET and POST.
+|   +-- Call a public API and inspect its JSON response.
+|   +-- Handle a timeout and a non-success status code.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

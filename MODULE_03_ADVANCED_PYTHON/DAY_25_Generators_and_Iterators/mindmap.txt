@@ -1,0 +1,21 @@
+DAY 25: Generators and Iterators
+|
++-- OVERVIEW
+|   +-- Iterators produce values one at a time. Generators make iterators using yield, which can reduce memory use for large sequences.
+|
++-- CORE CONCEPTS
+|   +-- iter() obtains an iterator; next() requests its next value.
+|   +-- A generator function uses yield.
+|   +-- Generator expressions use parentheses.
+|   +-- Generators are useful for streaming or large data.
+|
++-- PRACTICE
+|   +-- Create a generator for even numbers up to n.
+|   +-- Build a generator that reads a file line by line.
+|   +-- Compare a list comprehension with a generator expression.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

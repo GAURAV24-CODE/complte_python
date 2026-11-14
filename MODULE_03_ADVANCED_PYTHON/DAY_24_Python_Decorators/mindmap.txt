@@ -1,0 +1,21 @@
+DAY 24: Python Decorators
+|
++-- OVERVIEW
+|   +-- A decorator wraps a function to add behavior without changing the function's main code. Decorators are commonly used for logging, timing and access checks.
+|
++-- CORE CONCEPTS
+|   +-- Functions are first-class objects in Python.
+|   +-- A decorator accepts a function and returns a wrapper or another callable.
+|   +-- @decorator is convenient syntax for function decoration.
+|   +-- Use functools.wraps to preserve function metadata.
+|
++-- PRACTICE
+|   +-- Write a decorator that prints a function's name.
+|   +-- Create a timing decorator using time.perf_counter.
+|   +-- Explain what @ syntax does.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

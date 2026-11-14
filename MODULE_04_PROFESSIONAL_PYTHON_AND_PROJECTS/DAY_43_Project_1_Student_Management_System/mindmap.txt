@@ -1,0 +1,21 @@
+DAY 43: Project 1 — Student Management System
+|
++-- OVERVIEW
+|   +-- Build a command-line student management application. Practice classes, validation, functions and persistent storage.
+|
++-- CORE CONCEPTS
+|   +-- Define a Student data model.
+|   +-- Support create, read, update and delete operations.
+|   +-- Validate IDs and marks.
+|   +-- Persist records in JSON or SQLite.
+|
++-- PRACTICE
+|   +-- Add search by student ID.
+|   +-- Add update and delete operations.
+|   +-- Save and load records from JSON or SQLite.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

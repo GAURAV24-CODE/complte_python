@@ -1,0 +1,21 @@
+DAY 21: Four Pillars of OOP
+|
++-- OVERVIEW
+|   +-- The four commonly taught OOP pillars are encapsulation, abstraction, inheritance and polymorphism. They help structure maintainable and reusable applications.
+|
++-- CORE CONCEPTS
+|   +-- Encapsulation groups data and methods and controls access by convention or properties.
+|   +-- Abstraction exposes essential behavior while hiding implementation details.
+|   +-- Inheritance lets a class reuse or extend another class.
+|   +-- Polymorphism lets different objects respond to the same interface.
+|
++-- PRACTICE
+|   +-- Give a real-world example of each OOP pillar.
+|   +-- Create a base Employee class and a Manager subclass.
+|   +-- Demonstrate polymorphism with two payment classes.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

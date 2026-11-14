@@ -1,0 +1,21 @@
+DAY 20: Object-Oriented Programming Basics
+|
++-- OVERVIEW
+|   +-- Object-oriented programming organizes code around classes and objects. A class defines a structure and behavior; an object is an instance of that class.
+|
++-- CORE CONCEPTS
+|   +-- A class is a blueprint; an object is an instance.
+|   +-- __init__ initializes instance attributes.
+|   +-- self refers to the current instance.
+|   +-- Methods are functions defined inside classes.
+|
++-- PRACTICE
+|   +-- Create a Book class with title and author.
+|   +-- Create a BankAccount class with a balance and deposit method.
+|   +-- Explain the difference between a class and an object.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

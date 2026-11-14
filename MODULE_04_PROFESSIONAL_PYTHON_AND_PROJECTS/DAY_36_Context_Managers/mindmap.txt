@@ -1,0 +1,21 @@
+DAY 36: Context Managers
+|
++-- OVERVIEW
+|   +-- Context managers set up and clean up resources reliably. The with statement is commonly used with files, locks and database connections.
+|
++-- CORE CONCEPTS
+|   +-- with enters a managed context and exits it safely.
+|   +-- File objects support the context manager protocol.
+|   +-- Custom context managers can define __enter__ and __exit__.
+|   +-- contextlib.contextmanager can create context managers with a generator.
+|
++-- PRACTICE
+|   +-- Use with to read and write a file.
+|   +-- Create a context manager with contextlib.contextmanager.
+|   +-- Explain why cleanup matters when errors occur.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

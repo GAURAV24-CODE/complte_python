@@ -1,0 +1,21 @@
+DAY 49: Python Interview Preparation and Coding Questions
+|
++-- OVERVIEW
+|   +-- Review core concepts and practice explaining decisions clearly. Focus on readable solutions, complexity, edge cases and examples from your projects.
+|
++-- CORE CONCEPTS
+|   +-- Explain concepts in your own words.
+|   +-- Discuss trade-offs rather than memorizing definitions.
+|   +-- State assumptions and test edge cases.
+|   +-- Describe your project, your contribution and what you learned.
+|
++-- PRACTICE
+|   +-- Solve two string problems and explain their complexity.
+|   +-- Explain list versus tuple, and set versus dictionary.
+|   +-- Prepare a two-minute explanation of one project.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

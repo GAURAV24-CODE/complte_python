@@ -1,0 +1,21 @@
+DAY 19: CSV and JSON Handling
+|
++-- OVERVIEW
+|   +-- CSV stores tabular data and JSON stores structured data. Python's csv and json modules help read, write and exchange these formats.
+|
++-- CORE CONCEPTS
+|   +-- CSV rows are commonly handled with csv.reader or DictReader.
+|   +-- DictWriter writes dictionaries as CSV rows.
+|   +-- json.load/read and json.dump/write work with file objects.
+|   +-- JSON supports objects, arrays, strings, numbers, booleans and null.
+|
++-- PRACTICE
+|   +-- Read a CSV and calculate the average score.
+|   +-- Save a list of dictionaries to JSON.
+|   +-- Explain when CSV is preferable to JSON.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

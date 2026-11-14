@@ -1,0 +1,21 @@
+DAY 32: Python CRUD Operations
+|
++-- OVERVIEW
+|   +-- CRUD means Create, Read, Update and Delete. Build these operations using SQL statements and parameterized queries.
+|
++-- CORE CONCEPTS
+|   +-- Create uses INSERT.
+|   +-- Read uses SELECT.
+|   +-- Update uses UPDATE with a WHERE clause.
+|   +-- Delete uses DELETE with a WHERE clause; always verify the target rows.
+|
++-- PRACTICE
+|   +-- Implement all four CRUD operations for a contacts table.
+|   +-- Add a search function by name.
+|   +-- Explain why parameterized SQL is important.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

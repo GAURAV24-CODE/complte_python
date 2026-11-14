@@ -1,0 +1,21 @@
+DAY 18: Python Practice and Problem Solving
+|
++-- OVERVIEW
+|   +-- Consolidate core Python skills by breaking problems into inputs, processing and outputs. Write readable solutions and test normal and edge cases.
+|
++-- CORE CONCEPTS
+|   +-- Understand the problem before coding.
+|   +-- Break large problems into small functions.
+|   +-- Test empty, boundary and typical inputs.
+|   +-- Use clear names and avoid unnecessary repetition.
+|
++-- PRACTICE
+|   +-- Solve FizzBuzz.
+|   +-- Find the second-largest unique number in a list.
+|   +-- Build a menu-driven calculator.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

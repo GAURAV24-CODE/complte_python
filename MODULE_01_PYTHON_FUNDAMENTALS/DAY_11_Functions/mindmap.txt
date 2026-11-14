@@ -1,0 +1,21 @@
+DAY 11: Functions
+|
++-- OVERVIEW
+|   +-- Functions package reusable logic. Define them with def, give them meaningful names and call them when needed.
+|
++-- CORE CONCEPTS
+|   +-- def defines a function.
+|   +-- Parameters receive input values.
+|   +-- A function can contain multiple statements.
+|   +-- return sends a result back to the caller.
+|
++-- PRACTICE
+|   +-- Write a function that checks whether a number is even.
+|   +-- Write a function that calculates simple interest.
+|   +-- Create a reusable function to find the average of a list.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

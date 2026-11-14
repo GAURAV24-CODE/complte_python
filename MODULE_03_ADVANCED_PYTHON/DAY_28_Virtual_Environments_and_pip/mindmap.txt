@@ -1,0 +1,21 @@
+DAY 28: Virtual Environments and pip
+|
++-- OVERVIEW
+|   +-- Virtual environments isolate project dependencies. pip installs packages, while requirements files help reproduce an environment.
+|
++-- CORE CONCEPTS
+|   +-- Create an environment with python -m venv .venv.
+|   +-- Activate it using the command for your operating system.
+|   +-- Install packages with python -m pip install package-name.
+|   +-- Record dependencies with python -m pip freeze > requirements.txt.
+|
++-- PRACTICE
+|   +-- Create a virtual environment for a sample project.
+|   +-- Install one package and record dependencies.
+|   +-- Explain why each project should manage its own dependencies.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

@@ -1,0 +1,21 @@
+DAY 42: Working with JSON APIs — Practical Project
+|
++-- OVERVIEW
+|   +-- Combine HTTP requests and JSON parsing to build a small API client. Validate response data, handle errors and keep configuration separate from code.
+|
++-- CORE CONCEPTS
+|   +-- Send a request with a timeout.
+|   +-- Check HTTP status before using response data.
+|   +-- Validate that expected JSON keys exist.
+|   +-- Keep secrets out of source code and version control.
+|
++-- PRACTICE
+|   +-- Build a small client for a public API.
+|   +-- Add validation for missing JSON fields.
+|   +-- Document setup, usage and error handling in a README.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

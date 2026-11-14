@@ -1,0 +1,21 @@
+DAY 30: Testing with unittest and pytest
+|
++-- OVERVIEW
+|   +-- Automated tests verify that code behaves as expected. unittest is included in Python; pytest is a popular third-party testing framework.
+|
++-- CORE CONCEPTS
+|   +-- Test cases check expected behavior.
+|   +-- Assertions compare actual and expected results.
+|   +-- Test normal, boundary and invalid inputs.
+|   +-- Keep tests repeatable and independent.
+|
++-- PRACTICE
+|   +-- Write tests for a function that checks even numbers.
+|   +-- Test empty input and invalid input cases.
+|   +-- Create a pytest test file and run pytest from the terminal.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

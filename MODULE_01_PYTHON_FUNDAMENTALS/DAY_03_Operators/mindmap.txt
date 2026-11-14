@@ -1,0 +1,21 @@
+DAY 03: Operators
+|
++-- OVERVIEW
+|   +-- Operators perform calculations, comparisons and logical combinations. Understand arithmetic, assignment, comparison, logical, membership and identity operators.
+|
++-- CORE CONCEPTS
+|   +-- Arithmetic: +, -, *, /, //, %, **.
+|   +-- Comparison operators return booleans.
+|   +-- and, or and not combine conditions.
+|   +-- in checks membership; is checks object identity.
+|
++-- PRACTICE
+|   +-- Calculate the area of a rectangle.
+|   +-- Check whether a number is between 10 and 50.
+|   +-- Use modulo to determine whether a number is even.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

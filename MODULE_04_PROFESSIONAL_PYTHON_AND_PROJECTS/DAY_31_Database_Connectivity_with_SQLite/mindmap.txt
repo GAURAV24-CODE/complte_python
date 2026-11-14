@@ -1,0 +1,21 @@
+DAY 31: Database Connectivity with SQLite
+|
++-- OVERVIEW
+|   +-- SQLite is a lightweight relational database included with Python through sqlite3. Learn to connect, create tables, insert records and query data safely.
+|
++-- CORE CONCEPTS
+|   +-- sqlite3.connect opens or creates a database file.
+|   +-- Use cursor.execute to run SQL statements.
+|   +-- Commit changes that should persist.
+|   +-- Use parameterized queries rather than string formatting for values.
+|
++-- PRACTICE
+|   +-- Create an SQLite database file and a products table.
+|   +-- Insert three rows using placeholders.
+|   +-- Query rows with a WHERE condition.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

@@ -1,0 +1,21 @@
+DAY 35: Python Type Hints and Advanced Functions
+|
++-- OVERVIEW
+|   +-- Type hints document expected types and help tools analyze code. They do not normally enforce types at runtime by themselves.
+|
++-- CORE CONCEPTS
+|   +-- Annotate parameters and return values.
+|   +-- Use list[str] and dict[str, int] for common collections.
+|   +-- Optional values can be represented with str | None in modern Python.
+|   +-- Functions can accept callables and return other functions.
+|
++-- PRACTICE
+|   +-- Add type hints to a calculator module.
+|   +-- Write a function that accepts another function as an argument.
+|   +-- Explain static type checking versus runtime validation.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

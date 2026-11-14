@@ -1,0 +1,21 @@
+DAY 40: Memory Management and Garbage Collection
+|
++-- OVERVIEW
+|   +-- Python manages object memory automatically. References keep objects alive; garbage collection helps reclaim unreachable objects, including reference cycles.
+|
++-- CORE CONCEPTS
+|   +-- Variables refer to objects rather than containing raw values in a simple box model.
+|   +-- Reference counts help determine when objects can be reclaimed.
+|   +-- The gc module exposes garbage-collector controls and diagnostics.
+|   +-- Avoid relying on implementation details for program correctness.
+|
++-- PRACTICE
+|   +-- Explain references and object lifetime.
+|   +-- Inspect garbage collector status with gc.
+|   +-- Describe why circular references can complicate memory management.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

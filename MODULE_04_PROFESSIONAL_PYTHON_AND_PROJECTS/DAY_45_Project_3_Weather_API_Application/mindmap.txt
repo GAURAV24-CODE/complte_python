@@ -1,0 +1,21 @@
+DAY 45: Project 3 — Weather API Application
+|
++-- OVERVIEW
+|   +-- Build a weather application that retrieves weather data from an API and presents a readable summary. Practice HTTP requests, JSON and error handling.
+|
++-- CORE CONCEPTS
+|   +-- Choose a documented weather API and review its terms.
+|   +-- Keep API credentials in environment variables if required.
+|   +-- Handle invalid locations, timeouts and API errors.
+|   +-- Display units and the data retrieval time.
+|
++-- PRACTICE
+|   +-- Create a function that accepts a city name.
+|   +-- Parse temperature, conditions and humidity from JSON.
+|   +-- Handle missing credentials and failed requests.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

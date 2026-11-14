@@ -1,0 +1,21 @@
+DAY 05: Loops — for and while
+|
++-- OVERVIEW
+|   +-- Loops repeat a block of code. Use for to iterate over a sequence and while to repeat while a condition remains true.
+|
++-- CORE CONCEPTS
+|   +-- for iterates over items in an iterable.
+|   +-- range(start, stop, step) generates integer sequences.
+|   +-- while repeats while its condition is true.
+|   +-- break exits a loop; continue skips to the next iteration.
+|
++-- PRACTICE
+|   +-- Print the multiplication table of a number.
+|   +-- Calculate the sum of numbers from 1 to n.
+|   +-- Count vowels in a string using a loop.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

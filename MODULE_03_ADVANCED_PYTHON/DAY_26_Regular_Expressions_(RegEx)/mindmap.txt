@@ -1,0 +1,21 @@
+DAY 26: Regular Expressions (RegEx)
+|
++-- OVERVIEW
+|   +-- Regular expressions describe text patterns. Python's re module supports searching, matching, splitting and substitution.
+|
++-- CORE CONCEPTS
+|   +-- re.search finds a match anywhere in text.
+|   +-- re.match checks from the beginning; re.fullmatch checks the entire string.
+|   +-- Character classes and quantifiers describe patterns.
+|   +-- Use raw strings such as r'\d+' for regex patterns.
+|
++-- PRACTICE
+|   +-- Extract all numbers from a sentence.
+|   +-- Find words that begin with a capital letter.
+|   +-- Validate a simple phone-number format and explain its limits.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

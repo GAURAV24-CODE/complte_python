@@ -1,0 +1,21 @@
+DAY 08: Tuples
+|
++-- OVERVIEW
+|   +-- Tuples are ordered, immutable collections. They are useful for fixed groups of related values and can be unpacked into variables.
+|
++-- CORE CONCEPTS
+|   +-- Create tuples with commas; parentheses are optional.
+|   +-- A one-item tuple needs a trailing comma.
+|   +-- Tuples support indexing, slicing and iteration.
+|   +-- Tuple unpacking assigns elements to variables.
+|
++-- PRACTICE
+|   +-- Create a tuple for a book's title, author and year.
+|   +-- Unpack a tuple into three variables.
+|   +-- Explain when a tuple is preferable to a list.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

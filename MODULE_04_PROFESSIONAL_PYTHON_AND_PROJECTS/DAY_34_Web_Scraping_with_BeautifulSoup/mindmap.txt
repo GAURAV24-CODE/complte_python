@@ -1,0 +1,21 @@
+DAY 34: Web Scraping with BeautifulSoup
+|
++-- OVERVIEW
+|   +-- Web scraping extracts information from web pages. BeautifulSoup parses HTML; always respect site terms, robots guidance, privacy and rate limits.
+|
++-- CORE CONCEPTS
+|   +-- requests can retrieve HTML pages.
+|   +-- BeautifulSoup parses HTML into a navigable tree.
+|   +-- CSS selectors help locate elements.
+|   +-- Web page structures can change; scraping may be restricted by site rules.
+|
++-- PRACTICE
+|   +-- Parse a supplied HTML string and extract all links.
+|   +-- Extract headings from a permitted practice page.
+|   +-- Explain why scraping rules and rate limits matter.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

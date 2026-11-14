@@ -1,0 +1,21 @@
+DAY 47: Project 5 — Data Analysis Application
+|
++-- OVERVIEW
+|   +-- Build a small data analysis workflow: load data, inspect quality, clean values, calculate summaries and communicate findings.
+|
++-- CORE CONCEPTS
+|   +-- Load tabular data with pandas when installed.
+|   +-- Inspect shape, columns, types and missing values.
+|   +-- Clean duplicates and inconsistent values carefully.
+|   +-- Summarize results and explain business meaning.
+|
++-- PRACTICE
+|   +-- Analyze a public CSV dataset.
+|   +-- Calculate at least three useful KPIs.
+|   +-- Write three evidence-based findings and recommendations.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

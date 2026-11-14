@@ -1,0 +1,21 @@
+DAY 15: File Handling
+|
++-- OVERVIEW
+|   +-- File handling lets programs read and write persistent data. Use with open(...) so files are closed reliably.
+|
++-- CORE CONCEPTS
+|   +-- open() supports modes such as r, w, a and x.
+|   +-- read(), readline() and readlines() read content.
+|   +-- write() writes text; use newline characters for line breaks.
+|   +-- with manages file closing automatically.
+|
++-- PRACTICE
+|   +-- Write three lines to a text file.
+|   +-- Read a file and count its lines.
+|   +-- Append a new task to a to-do text file.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation

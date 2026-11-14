@@ -1,0 +1,21 @@
+DAY 50: Final Capstone Project and Assessment
+|
++-- OVERVIEW
+|   +-- Plan and deliver a complete Python application that demonstrates problem solving, clean structure, persistence, testing and documentation.
+|
++-- CORE CONCEPTS
+|   +-- Define a real problem and clear requirements.
+|   +-- Separate application logic into modules.
+|   +-- Include validation, exception handling and tests.
+|   +-- Write a README with setup, usage, screenshots and limitations.
+|
++-- PRACTICE
+|   +-- Write a project proposal and acceptance criteria.
+|   +-- Build a working minimum version, then improve it.
+|   +-- Run tests and prepare a final project demonstration.
+|
++-- REVISION
+    +-- Definitions
+    +-- Syntax and examples
+    +-- Common mistakes
+    +-- Interview explanation
