@@ -1,6 +1,6 @@
 # Day 05 — Loops — for and while
 
-**Module:** Python Fundamentals  
+**Module:** Python Fundamenta
 **Learning path:** Complete Python — 50 Days
 
 ## 1. Overview
