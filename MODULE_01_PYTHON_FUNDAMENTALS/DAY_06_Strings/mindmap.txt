@@ -1,7 +1,7 @@
 DAY 06: Strings
 |
 +-- OVERVIEW
-|   +-- Strings are immutable sequences of Unicode characters. Learn indexing, slicing, common methods, formatting and joining.
+|   +-- Strings are immutable sequences Unicode characters. Learn indexing, slicing, common methods, formatting and joining.
 |
 +-- CORE CONCEPTS
 |   +-- Use single, double or triple quotes.
