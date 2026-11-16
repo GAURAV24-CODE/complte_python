@@ -1,6 +1,6 @@
 # Day 06 — Strings
 
-**Module:** Python Fundamentals  
+**Module:** Python Fundamenta  
 **Learning path:** Complete Python — 50 Days
 
 ## 1. Overview
