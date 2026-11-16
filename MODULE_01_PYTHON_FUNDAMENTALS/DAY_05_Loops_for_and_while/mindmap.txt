@@ -1,6 +1,6 @@
 DAY 05: Loops — for and while
 |
-+-- OVERVIEW
++-- OVERV
 |   +-- Loops repeat a block of code. Use for to iterate over a sequence and while to repeat while a condition remains true.
 |
 +-- CORE CONCEPTS
