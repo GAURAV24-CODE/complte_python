@@ -1,6 +1,6 @@
 # Day 29 — Logging and Debugging
 
-**Module:** Professional Python Development  
+**Module:** Professional Python Developme 
 **Learning path:** Complete Python — 50 Days
 
 ## 1. Overview
