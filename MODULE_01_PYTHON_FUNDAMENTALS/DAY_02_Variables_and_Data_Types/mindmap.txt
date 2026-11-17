@@ -1,4 +1,4 @@
-DAY 02: Variables and Data Types
+DAY 02: Variables and Data Typ
 |
 +-- OVERV
 |   +-- Variables are names that refer to values. Python infers a value's type at runtime. Core built-in types include int, float, str and bool.
