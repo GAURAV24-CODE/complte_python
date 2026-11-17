@@ -1,4 +1,4 @@
-DAY 18: Python Practice and Problem Solving
+DAY 18: Python Practice and
 |
 +-- OVERV
 |   +-- Consolidate core Python skills by breaking problems into inputs, processing and outputs. Write readable solutions and test normal and edge cases.
