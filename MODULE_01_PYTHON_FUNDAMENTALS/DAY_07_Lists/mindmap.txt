@@ -1,6 +1,6 @@
 DAY 07: Lists
 |
-+-- OVERVIEW
++-- OVERVIEW view 
 |   +-- Lists are ordere mutable collections that can contain values of different types. Learn indexing, slicing, methods and iteration.
 |
 +-- CORE CONCEPTS
