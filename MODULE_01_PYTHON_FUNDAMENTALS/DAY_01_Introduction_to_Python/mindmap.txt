@@ -2,7 +2,7 @@
                        |
         +--------------+--------------+
         |              |              |
-      Python         Features        Tools
+g      Python         Features        Tools
         |              |              |
     High-Level      Easy to Learn   VS 
     General-Purpose  Open Source    Jupyter
