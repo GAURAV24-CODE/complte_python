@@ -1,4 +1,4 @@
-# Day 05 — Loops — for  loops
+# Day 05 — Loops — for  loopsssssss
 
 **Module:** Python Fundamenta
 **Learning path:** Complete Python — 50 Days
