@@ -1,4 +1,4 @@
-DAY 05: Loops — for and while
+DAY 05: Loops — for and whiles lops 
 |
 +-- OVERV
 |   +-- Loops repeat a block of code. Use for to iterate over a sequence and while to repeat while a condition remains true.
