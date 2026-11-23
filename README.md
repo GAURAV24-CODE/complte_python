@@ -1,6 +1,6 @@
 # COMPLETE_PYTHON — 50-Day Learning Repository
 
-A structured Python learning path with four modules and 50 day-wise less
+A structured Python learning path with fou modules and 50 day-wise less
 
 ## Folder structure
 - `MODULE_01_PYTHON_FUNDAMENTALS` — Days 01–18
