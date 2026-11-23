@@ -17,5 +17,5 @@ DAY 06: Strings
 +-- REVISION
     +-- Definitions
     +-- Syntax and examples
-    +-- Common mistakes
+    +-- Common mistakessss
     +-- Interview explanation
