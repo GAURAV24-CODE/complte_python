@@ -1,6 +1,6 @@
 DAY 29: Logging and Debugging
 |
-+-- OVER
++-- OVER()
 |   +-- Logging records events from a program at different severity levels. Debugging helps locate and understand defects systematically.
 |
 +-- CORE CONCEPTS
