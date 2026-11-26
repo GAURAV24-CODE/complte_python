@@ -11,7 +11,7 @@ DAY 02: Variabless and Data Typess
 |
 +-- PRACTICE
 |   +-- Create variables for a product name, price and availability.
-|   +-- Convert the string '100' into an integer.
+|   +-- Convert the string '100' into an intege
 |   +-- Check the types of three variables.
 |
 +-- REVISION
