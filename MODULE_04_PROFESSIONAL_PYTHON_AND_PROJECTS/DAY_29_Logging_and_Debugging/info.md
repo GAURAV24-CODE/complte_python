@@ -1,7 +1,7 @@
 # Day 29 — Logging and
 
 **Module:** Professional Python Developme 
-**Learning path:** Complete Python — 50 Days
+**Learning path:** Complete Python — 50 Daysss
 
 ## 1. Overview
 Logging records events from a program at different severity levels. Debugging helps locate and understand defects systematically.
