@@ -1,1 +1,25 @@
-hi i am gaurav hvbhbcvj
+hi i am gaurav hvbhbcvjfjdj  f v git add Day-10-Exploratory-Data-Analysis/Cheat_Sheet/cheat_sheet.txt
+git commit -m "Update Day 10 EDA Cheat Sheet"
+git push origin main
+
+git add Resources/Notes/gk.txt
+git commit -m "Update Notes gk"
+git push origin main
+
+git add Resources/Roadmaps/g1.txt
+git commit -m "Update Roadmap g1 text"
+git push origin main
+
+git add Resources/Roadmaps/g4.txt
+git commit -m "Update Roadmap g4 text"
+git push origin main
+
+git add Resources/Roadmaps/g5.md
+git commit -m "Update Roadmap g5 markdown"
+git push origin main
+
+git add -u Resources/Roadmaps/g6.md
+git commit -m "Delete old Roadmap g6 markdown"
+git push origin main
+
+git status
