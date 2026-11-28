@@ -6,7 +6,7 @@ A structured Python learning path with fou modules and 50 day-wise less
 - `MODULE_01_PYTHON_FUNDAMENTALS` — Days 01–18
 - `MODULE_02_DATA_HANDLING_AND_OOP` — Days 19–23
 - `MODULE_03_ADVANCED_PYTHON` — Days 24–28
-- `MODULE_04_PROFESSIONAL_PYTHON_AND_PROJECTS` — Days 29–50
+- `MODULE_04_PROFESSIONAL_PYTHON_AND_PROJECTS` — Days 29–50days
 
 ## Each day contains
 - `code.ipynb` — Jupyter notebook with explanations, executable examples and exercises.
