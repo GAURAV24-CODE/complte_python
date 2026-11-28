@@ -7,7 +7,7 @@
 Lists are ordered, mutable collections that can contain values of different types. Learn indexing, slicing, methods and iteration.
 
 ## 2. Learning objectives
-By the end of this lesson, you should be able to:
+By the end of this lesson, you should be ab
 - Create lists with square brackets.
 - Lists support indexing and slicing.
 - append(), extend(), insert(), remove(), pop() and sort() are common methods.
