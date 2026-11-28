@@ -10,7 +10,7 @@ DAY 29: Logging and Debugging
 |   +-- Debug by reproducing the issue, inspecting state and testing a fix.
 |
 +-- PRACTICE
-|   +-- Configure logging to write to a file.
+|   +-- Configure logging to write to a fi
 |   +-- Add useful log messages to a small program.
 |   +-- Describe a repeatable debugging workflow.
 |
