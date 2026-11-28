@@ -1,10 +1,10 @@
 # Day 06 — Strings
 
 **Module:** Python Fundamenta  
-**Learning path:** Complete Python — 50 Days
+**Learning path:** Complete Python — 50 Dayssssss
 
 ## 1. Overview
-Strings are immutable sequences of Unicode characters. Learn indexing, slicing, common methods, formatting and joining.
+Strings are immutable sequences of Unicode characters. Learn indexing, slicing, common methods, formatting and joinin
 
 ## 2. Learning objectives
 By the end of this lesson, you should be able to:
