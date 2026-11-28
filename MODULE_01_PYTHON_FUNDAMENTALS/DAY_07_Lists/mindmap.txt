@@ -12,7 +12,7 @@ DAY 07: Lists
 +-- PRACTICE
 |   +-- Find the largest and smallest values in a list.
 |   +-- Remove duplicates while preserving order.
-|   +-- Calculate the average of a list of marks.
+|   +-- Calculate the average of a list of m
 |
 +-- REVISION
     +-- Definitions
