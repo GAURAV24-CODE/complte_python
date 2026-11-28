@@ -12,7 +12,7 @@ g      Python s        Feature        Tools
         |
   +-----+------+-------+--------+
   |     |      |       |        |
- Data   AI     ML   Automation  Web
+ Data   AI     ML   Automation  Webss
 Science
         |
     First Program
